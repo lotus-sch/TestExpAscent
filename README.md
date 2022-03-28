@@ -1,2 +1,2 @@
 # TestExpAscent
-To finish the 白盒测试
+It's for fetching the Ascent's 白盒测试 codes each other.
